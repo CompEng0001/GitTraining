@@ -1,0 +1,38 @@
+/* Based on the Nordic color scheme (https://www.nordtheme.com/) */
+
+// Set the primary and secondary colors
+$primary-color: #88c0d0;
+$secondary-color: #81a1c1;
+
+// Set the text color and background color
+$text-color: #eceff4;
+$bg-color: #2e3440;
+
+// Set the heading and link colors
+$heading-color: #d8dee9;
+$link-color: #b48ead;
+
+// Set the code block colors
+$code-bg-color: #3b4252;
+$code-text-color: #d8dee9;
+$code-border-color: #434c5e;
+
+// Set the list item colors
+$list-color: $text-color;
+
+// Set the blockquote colors
+$blockquote-color: $text-color;
+$blockquote-bg-color: #4c566a;
+$blockquote-border-color: $bg-color;
+
+// Set the table colors
+$table-text-color: $text-color;
+$table-border-color: #434c5e;
+
+// Set the alert box colors
+$alert-text-color: #eceff4;
+$alert-bg-color: #bf616a;
+$alert-border-color: #8f3f4f;
+
+// Include the Marp SCSS variables
+@import "../node_modules/@marp-team/marp-core/themes/variables";

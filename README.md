@@ -1,6 +1,7 @@
-#Introduction
+# Introduction 
 
-##Contributors
+## Contributors
 
+- jimichanga77
 - CCCUPsyTech
 - compeng0001

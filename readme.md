@@ -1,6 +1,0 @@
-# Introduction
-
-## Contributors
-
-- mark-titus
-

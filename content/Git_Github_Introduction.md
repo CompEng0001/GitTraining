@@ -30,8 +30,9 @@ footer: 'Slides by [ Seb Blair BEng(H) PGCAP MIET MIHEEM FHEA
 
 # Git and Github Training
 
-      Date: 2023-03-27
-      Team: Psychology 
+Date: 2023-03-27
+Team: Psychology
+
       
 ---
 
@@ -106,6 +107,8 @@ All commands are prepended with `git`
 
 </div>
 
+![bg right:30% 90%](../figures/gitMemeOne.png)
+
 ---
 
 ## Git - Branching
@@ -143,6 +146,28 @@ All commands are prepended with `git`
 `Merge`: Combine two copies of a repository.​ Conflicts may be present.
 
 </div>​
+
+---
+
+## Git workflow
+
+![center w:825](../figure/../figures/git-and-github-workflow.png)
+
+---
+
+<!-- class:_invert -->
+## Git `Commit`
+
+ - Interactive approach
+   ```sh
+   git commit -av
+   ```
+
+- Non-interactive
+  ```sh
+  git commit -m "your message"
+  ```
+![bg right:50% 100%](../figures/gitMemeTwo.png)
 
 ---
 

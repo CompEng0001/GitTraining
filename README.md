@@ -1,7 +1,6 @@
+#Introduction
 
-# Introduction
+##Contributors
 
-
-## Contributors
-
+- CCCUPsyTech
 - compeng0001
